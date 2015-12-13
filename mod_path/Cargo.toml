@@ -4,7 +4,7 @@ name = "mod_path"
 version = "0.1.6"
 authors = ["Simon Sapin <simon.sapin@exyr.org>"]
 license = "MIT"
-repository = "https://github.com/SimonSapin/rust-std-candidates"
+repository = "https://github.com/simphax/rust-std-candidates"
 description = "A work-around for Rust bug #18810."
 
 build = "build.rs"
